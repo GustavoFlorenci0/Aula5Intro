@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 O RIo de Janeiro continua lindo
+=======
+O Rio de Janeiro continua lindo...
+>>>>>>> 0123c372a904c9c9e894e0c3679152cbc7d898bf
